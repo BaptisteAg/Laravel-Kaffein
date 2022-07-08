@@ -18,7 +18,7 @@ Pour initialiser le projet il faut rentrer ces commandes :
 8. "php artisan serv"
 
 Les données sont des données générer aléatoirement, pour ce faire il faut rentrer dans 'Tinger' :<br/>
-9. "php artisan tinker"
+9. "php artisan tinker"<br/>
 10. "App\Models\CompaniesDetails::factory()->count(10)->create()"
 
 Et voila :)
