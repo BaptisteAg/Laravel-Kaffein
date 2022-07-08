@@ -1,10 +1,10 @@
-J'espère que ce travail, même s'il n'est pas complet, sera à la hauteur.
-J'ai appris beaucoup de choses sur laravel grace à cet accomplissement et je pense que je vais l'utiliser dans mes futurs projets personnels.
+J'espère que ce travail, même s'il n'est pas complet, sera à la hauteur.<br/>
+J'ai appris beaucoup de choses sur laravel grace à cet accomplissement et je pense que je vais l'utiliser dans mes futurs projets personnels.<br/><br/>
 
-Version de Mysql : 8.0.29
-Version de PHP : 7.3.21
-Version de Laravel : 9.x
-librairie HubSpot API : https://github.com/HubSpot/hubspot-api-php
+Version de Mysql : 8.0.29<br/>
+Version de PHP : 7.3.21<br/>
+Version de Laravel : 9.x<br/>
+librairie HubSpot API : https://github.com/HubSpot/hubspot-api-php<br/>
 
 Pour initialiser le projet il faut rentrer ces commandes : 
 1. "composer install"
@@ -17,7 +17,7 @@ Pour initialiser le projet il faut rentrer ces commandes :
 7. "npm run watch"
 8. "php artisan serv"
 
-Les données sont des données générer aléatoirement, pour ce faire il faut rentrer dans 'Tinger' :
+Les données sont des données générer aléatoirement, pour ce faire il faut rentrer dans 'Tinger' :<br/>
 9. "php artisan tinker
 10. "App\Models\CompaniesDetails::factory()->count(10)->create()"
 
